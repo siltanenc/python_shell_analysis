@@ -1,9 +1,5 @@
-
-# coding: utf-8
-
-# In[18]:
-
-# script for making plots from a dataframe
+# Python script for plotting gene data
+# Author: Christian Siltanen
 
 #import libraries: pandas, matplotlib.pyplot
 import pandas as pd;
